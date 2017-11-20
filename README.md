@@ -8,7 +8,7 @@ Replacement data files for Half-Life/Counter Strike or other mods.
 All files included in this repository are licensed [CC0/Public Domain](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
 Image files are either created from scratch or from Public Domain files.
 
-Files are best used with projects such as [FreeCS](https://github.com/eukara/FreeCS) and the other engines.
+Files are best used with projects such as [FreeCS](https://github.com/eukara/FreeCS) and other similar engines & games.
 
 # Notice!
 
