@@ -11,4 +11,4 @@ All Files must be licensed in the Public Domain/CC0. No other licenses allowed.
 
 All files must be lowercase.
 
-
+Please make seperate pull requests with your creations versus other author's CC0/Public Domain files.
