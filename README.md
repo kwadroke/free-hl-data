@@ -26,4 +26,4 @@ See CONTRIBUTING.md for more info on how to contribute to this repository.
 
 See the [Wiki](https://github.com/kwadroke/free-hl-data/wiki) for more information on how to make WAD files and other instructions.
 
-See [Project Status](https://github.com/kwadroke/free-hl-data/wiki/status.md) to see how this project is progressing.
+See [Project Status](https://github.com/kwadroke/free-hl-data/wiki/Project-Status) to see how this project is progressing.
