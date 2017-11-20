@@ -25,3 +25,5 @@ The goal of this project is to not create a pixel perfect version of the image f
 See CONTRIBUTING.md for more info on how to contribute to this repository.
 
 See the [Wiki](https://github.com/kwadroke/free-hl-data/wiki) for more information on how to make WAD files and other instructions.
+
+See [Project Status](https://github.com/kwadroke/free-hl-data/wiki/status.md) to see how this project is progressing.
